@@ -1,5 +1,5 @@
 # CRUD TODO WITH GOLANG
-
+ ![alt text](https://pilsniak.com/wp-content/uploads/2017/04/golang.jpg)
 # REQUIREDMEN
 - go get gopkg.in/gin-gonic/gin.v1
 - go get -u github.com/jinzhu/gorm
