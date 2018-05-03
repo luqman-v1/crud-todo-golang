@@ -1,6 +1,6 @@
-# crud-todo-golang
+# CRUD TODO WITH GOLANG
 
-#requiredmen
+# REQUIREDMEN
 - go get gopkg.in/gin-gonic/gin.v1
 - go get -u github.com/jinzhu/gorm
 - go get github.com/go-sql-driver/mysql
@@ -12,4 +12,5 @@
 - v1.PUT("people/:id", update)
 - v1.GET("people/:id", detail)
 - v1.DELETE("people/delete/:id", delete)
+
 
