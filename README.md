@@ -1,9 +1,9 @@
 # crud-todo-golang
 
 #requiredmen
-$ go get gopkg.in/gin-gonic/gin.v1
-$ go get -u github.com/jinzhu/gorm
-$ go get github.com/go-sql-driver/mysql
+- $ go get gopkg.in/gin-gonic/gin.v1
+- $ go get -u github.com/jinzhu/gorm
+- $ go get github.com/go-sql-driver/mysql
 
 # ROUTING
 *v1.GET("peoples", index)
